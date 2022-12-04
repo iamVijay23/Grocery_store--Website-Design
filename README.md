@@ -1,4 +1,4 @@
-# Grocery_store--Website-Design
+# Grocery_store-Website-Design
 
 This is the singal page grocery shop website  design  using HTML CSS Javascript
 This responsive website .
